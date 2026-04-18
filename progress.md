@@ -527,3 +527,4 @@
 [2026-04-17 01:25:47 PM] Just showing up matters.
 [2026-04-17 01:25:47 PM] Just showing up matters.
 [2026-04-18 12:45:20 PM] The habit of showing up wins the game.
+[2026-04-18 12:45:20 PM] Consistency is more important than intensity.
